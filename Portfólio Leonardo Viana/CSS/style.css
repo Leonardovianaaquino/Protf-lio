@@ -1,0 +1,102 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:  rgba(227, 224, 224, 4);
+    
+    
+  
+    
+}
+
+.Container{
+   width: 80%;
+   height: 80%;
+   background: white;
+   margin-left: 10%;
+   
+    
+}
+
+.cabecalho{
+
+    width: 30%;
+    
+    float: left;
+
+}
+.cabecalho h1{
+    text-align: center;
+    font-size: 250%;
+    color: black
+}
+.cabecalho h3{
+    text-align: center;
+    color: black;
+
+}
+.cabecalho li{
+    text-align: center;
+    margin-right: 10%;
+    display: flow-root;
+    margin-top: 5%;
+    
+}
+.cabecalho li a{
+    margin-top: 10%;
+    color: black;
+    
+}
+.imgperfil{
+    border-radius: 200px;
+    margin-left: 25%;
+    width: 200px;
+    height: 200px;
+    margin-top: 35%;
+
+}
+.Content{
+    
+    text-decoration: none;
+    width: 65%;
+    font-size: 150%;
+    float: right;
+    margin-top: 15%;
+    text-align: justify;
+    text-align: center;
+    margin-right: 3%;
+    color: rgb(8, 8, 8)
+
+}
+.Content li{
+    text-align: center;
+    margin-right: 10%;
+    display: flow-root;
+    
+
+}
+
+.Contenthobi{
+   
+float: right;
+margin-right: 30%;
+margin-top: 10%;
+
+}
+.Contenthobi h4{
+    font-size: 200%;
+}
+.Contenthobi li{
+    font-size: 150%;
+}
+.Contentcont{
+    float: right;
+    margin-right: 40%;
+    margin-top: 15%;
+    
+
+}
+.Contentcont h3{
+    font-size: 250%;
+}
+.Contentcont li{
+    font-size: 200%;
+}
